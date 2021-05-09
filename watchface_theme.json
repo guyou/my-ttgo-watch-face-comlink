@@ -43,10 +43,34 @@
       "font_color": "#000000",
       "align": "center",
       "font_size": 48,
-      "x_offset": 20,
-      "y_offset": 45,
-      "x_size": 200,
-      "y_size": 78
+      "x_offset": 25,
+      "y_offset": 50,
+      "x_size": 150,
+      "y_size": 60
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%S",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 32,
+      "x_offset": 120,
+      "y_offset": 55,
+      "x_size": 125,
+      "y_size": 34
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%Y-%m-%d",
+      "font_color": "#FFFFFF",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 100,
+      "y_offset": 15,
+      "x_size": 100,
+      "y_size": 20
     },
     {
       "enable": true,
@@ -55,9 +79,9 @@
       "font_color": "#FFFFFF",
       "align": "center",
       "font_size": 16,
-      "x_offset": 100,
-      "y_offset": 15,
-      "x_size": 125,
+      "x_offset": 70,
+      "y_offset": 120,
+      "x_size": 48,
       "y_size": 20
     },
     {
@@ -67,7 +91,7 @@
       "font_color": "#FFFFFF",
       "align": "center",
       "font_size": 16,
-      "x_offset": 100,
+      "x_offset": 120,
       "y_offset": 120,
       "x_size": 125,
       "y_size": 20
