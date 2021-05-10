@@ -2,6 +2,10 @@ A watchface for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) insp
 
 ![Preview](watchface_theme_prev.png)
 
+# Download
+
+Download package from [releases](https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest)
+
 # References
 
 * [Knight Comlink for Amazfit](https://amazfitwatchfaces.com/bip/view/22696)
